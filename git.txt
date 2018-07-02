@@ -1,0 +1,58 @@
+..                                             GIT AND GITHUB
+
+
+                                                  GITHUB
+
+
+                  github is a website to uplaod our repositories on the online.it provide the backup to client.it provide visual 
+interface to our repository.it makes collabiration easily.git is not equals to github.
+       go to browser
+       search github
+        sing up with username,email id,passward&
+                          creat personal account next choose your plane selet first radio button and select second checkbox and
+ click continue select public and again checkbox
+       click skip
+      
+
+                                                    GIT 
+
+                                 git is a distributed version control system.it helps us manage our projects.git used to trackthe changes
+ of files and folders.git is a tool we will instal on our local computer.it stores all hystory data.git is a open source and free.
+ 
+                                         VERSION CONTROL SYSTEM 
+
+                      these are 2 types 1)distributed version control system
+                                        2)centrolized version control system
+
+                                        GIT INSTALASION IN WINDOWS
+
+                                  CHECK THE GIT ALREADY INSTALED OR NOT
+
+             go to command prompt and type in that git --version and click enter butten then if instaled it shows version.
+                                 
+
+                                     HOW TO SEND EMAILS FROM GITHUB
+
+               go to github-select repository-click settings-integration&sevices-add email sevice
+                    give email address and click both of checkboxes and then add service
+    
+
+ COMMANDS                                                              DISRCIPCTION     
+
+git init                                                     try to inisilize our git client  and it will create empty local directory.
+git config --global user.name"varalakshmidevops"             what user name is used in githud that is used here
+git config --global user.email"varalakshmidevops@gmail.com"
+git clone or git pull                                        download github files(remote files,repositories) to our local machine.
+git add filename                                             is used to add the file to staying stage
+cd directory name/                                           it goes one directory frient or go to the given directory
+cd filename/                                                 it goes to that file which you give
+git log                                                      it is used to give information about files and folders like name ,auther,date,time etc
+dir > filename                                               it is used to create file
+git help                                                     it give all commends and concepts whatever you have doutes
+git add .                                                    it saves the all the files at a time
+git commit -m "  msg whatever you want"                      it is used to store the files in local computer
+git push or git push origin branchname                       it move the files our pc to github(remote machine)
+
+
+
+     
